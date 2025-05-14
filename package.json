@@ -1,8 +1,9 @@
 {
   "name": "chai-aur-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is learning about backend series",
   "main": "server.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,13 +12,14 @@
     "url": "git+https://github.com/Haiderarswift/Chai-Aur-Backend.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Muhammad Haider",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Haiderarswift/Chai-Aur-Backend/issues"
   },
   "homepage": "https://github.com/Haiderarswift/Chai-Aur-Backend#readme",
   "dependencies": {
+    "dotenv": "^16.5.0",
     "express": "^5.1.0"
   }
 }
