@@ -1,0 +1,23 @@
+{
+  "name": "chai-aur-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haiderarswift/Chai-Aur-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haiderarswift/Chai-Aur-Backend/issues"
+  },
+  "homepage": "https://github.com/Haiderarswift/Chai-Aur-Backend#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

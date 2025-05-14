@@ -1,0 +1,121 @@
+<mxfile host="65bd71144e">
+    <diagram id="KpwsSTxghUMbQpQCoYI6" name="Page-1">
+        <mxGraphModel dx="460" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Backend Development Fundamentals and Process Flow&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="40" width="560" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;2 Major Components&lt;/h1&gt;&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;1 A Programming Languages&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2&amp;nbsp; A Database&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;font&gt;Java, JS, PHP, Golang, C++, C#, Python&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Mongo, MySQL, PostGres, sqlite, noSQL&lt;br&gt;&lt;br&gt;we use also their framwork for easy learning and aproach&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;We have here use &lt;b style=&quot;&quot;&gt;Javascript Programming language&lt;/b&gt;&lt;br&gt;to make logics and function then we use fram works of JS&lt;br&gt;JS FramWork(Express.Js, Node.js)&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="120" width="740" height="620" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="endArrow=classic;html=1;exitX=0.189;exitY=0.29;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.378;entryY=0.452;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="220" y="330" as="sourcePoint"/>
+                        <mxPoint x="320" y="330" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="400" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;ORM &amp;amp; ODM&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="400" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="endArrow=classic;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.811;entryY=0.194;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="23" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="470" y="480" as="sourcePoint"/>
+                        <mxPoint x="565.14" y="370.2" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="26" value="&lt;h1 style=&quot;margin-top: 0px; line-height: 80%;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: normal; background-color: transparent;&quot;&gt;ORM&amp;nbsp; and ODM is use as a midleware that help program intrconnect with DataBase and get results as according to quries&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: normal; background-color: transparent;&quot;&gt;ForExample: Mongoose, Prisma,&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="460" width="360" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;ORM (Object-Relational Mapping)&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;This is used with relational database, ORM translate between objects in code and rows in a relational database table.&lt;/p&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;ODM (Object-Document Mapping)&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&amp;nbsp;Built for noSQL datbase like mongoDB, ODM maps between objects in code and documents in a noSQL datbase collection.&lt;/p&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font&gt;SQL and NoSQL&lt;/font&gt;&lt;/p&gt;&lt;/h1&gt;&lt;h3 data-end=&quot;286&quot; data-start=&quot;248&quot;&gt;🗃️ &lt;strong data-end=&quot;286&quot; data-start=&quot;256&quot;&gt;SQL (Relational Databases)&lt;/strong&gt;&lt;/h3&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 200%;&quot;&gt;&lt;table style=&quot;background-color: transparent; font-size: 12px; font-weight: normal; text-align: justify; line-height: 200%;&quot; class=&quot;w-fit min-w-(--thread-content-width)&quot; data-end=&quot;741&quot; data-start=&quot;288&quot;&gt;&lt;thead data-end=&quot;324&quot; data-start=&quot;288&quot;&gt;&lt;tr data-end=&quot;324&quot; data-start=&quot;288&quot;&gt;&lt;th style=&quot;text-align: justify;&quot; data-col-size=&quot;sm&quot; data-end=&quot;309&quot; data-start=&quot;288&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-weight: normal; font-size: 14px; line-height: 200%;&quot;&gt;Feature&lt;/font&gt;&lt;/th&gt;&lt;th style=&quot;text-align: justify;&quot; data-col-size=&quot;md&quot; data-end=&quot;324&quot; data-start=&quot;309&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-weight: normal; font-size: 14px; line-height: 200%;&quot;&gt;SQL Example&lt;/font&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody data-end=&quot;741&quot; data-start=&quot;362&quot;&gt;&lt;tr data-end=&quot;410&quot; data-start=&quot;362&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;383&quot; data-start=&quot;362&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px; line-height: 200%;&quot;&gt;Data model&lt;/font&gt;&lt;/td&gt;&lt;td data-end=&quot;410&quot; data-start=&quot;383&quot; data-col-size=&quot;md&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px; line-height: 200%;&quot;&gt;Tables (rows &amp;amp; columns)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr data-end=&quot;485&quot; data-start=&quot;411&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;432&quot; data-start=&quot;411&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px; line-height: 200%;&quot;&gt;Schema&lt;/font&gt;&lt;/td&gt;&lt;td data-end=&quot;485&quot; data-start=&quot;432&quot; data-col-size=&quot;md&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px; line-height: 200%;&quot;&gt;Fixed (you define tables &amp;amp; columns ahead of time)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr data-end=&quot;539&quot; data-start=&quot;486&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;507&quot; data-start=&quot;486&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px; line-height: 200%;&quot;&gt;Relationships&lt;/font&gt;&lt;/td&gt;&lt;td data-end=&quot;539&quot; data-start=&quot;507&quot; data-col-size=&quot;md&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px; line-height: 200%;&quot;&gt;Strong (foreign keys, joins)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr data-end=&quot;596&quot; data-start=&quot;540&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;561&quot; data-start=&quot;540&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px; line-height: 200%;&quot;&gt;Query language&lt;/font&gt;&lt;/td&gt;&lt;td data-end=&quot;596&quot; data-start=&quot;561&quot; data-col-size=&quot;md&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px; line-height: 200%;&quot;&gt;SQL (Structured Query Language)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr data-end=&quot;669&quot; data-start=&quot;597&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;618&quot; data-start=&quot;597&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px; line-height: 200%;&quot;&gt;Examples&lt;/font&gt;&lt;/td&gt;&lt;td data-end=&quot;669&quot; data-start=&quot;618&quot; data-col-size=&quot;md&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px; line-height: 200%;&quot;&gt;MySQL, PostgreSQL, SQLite, Microsoft SQL Server&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr data-end=&quot;741&quot; data-start=&quot;670&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;691&quot; data-start=&quot;670&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px; line-height: 200%;&quot;&gt;Best for&lt;/font&gt;&lt;/td&gt;&lt;td data-end=&quot;741&quot; data-start=&quot;691&quot; data-col-size=&quot;md&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px; line-height: 200%;&quot;&gt;Structured data, complex queries, transactions&lt;br&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/h1&gt;&lt;h3 data-end=&quot;853&quot; data-start=&quot;810&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/h3&gt;&lt;h3 data-end=&quot;853&quot; data-start=&quot;810&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;📦 &lt;strong style=&quot;&quot; data-end=&quot;853&quot; data-start=&quot;817&quot;&gt;NoSQL (Non-relational Databases)&lt;/strong&gt;&lt;/font&gt;&lt;/h3&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;div class=&quot;_tableContainer_16hzy_1&quot;&gt;&lt;div class=&quot;_tableWrapper_16hzy_14 group flex w-fit flex-col-reverse&quot; tabindex=&quot;-1&quot;&gt;&lt;div class=&quot;_tableContainer_16hzy_1&quot;&gt;&lt;div class=&quot;_tableWrapper_16hzy_14 group flex w-fit flex-col-reverse&quot; tabindex=&quot;-1&quot;&gt;&lt;table class=&quot;w-fit min-w-(--thread-content-width)&quot; data-end=&quot;1354&quot; data-start=&quot;855&quot;&gt;&lt;thead data-end=&quot;893&quot; data-start=&quot;855&quot;&gt;&lt;tr data-end=&quot;893&quot; data-start=&quot;855&quot;&gt;&lt;th data-col-size=&quot;sm&quot; data-end=&quot;876&quot; data-start=&quot;855&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Feature&lt;/font&gt;&lt;/th&gt;&lt;th data-col-size=&quot;md&quot; data-end=&quot;893&quot; data-start=&quot;876&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;NoSQL Example&lt;/font&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody data-end=&quot;1354&quot; data-start=&quot;934&quot;&gt;&lt;tr data-end=&quot;1010&quot; data-start=&quot;934&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;955&quot; data-start=&quot;934&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Data model&lt;/font&gt;&lt;/td&gt;&lt;td data-end=&quot;1010&quot; data-start=&quot;955&quot; data-col-size=&quot;md&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Flexible — documents, key-value pairs, graphs, etc.&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr data-end=&quot;1085&quot; data-start=&quot;1011&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;1032&quot; data-start=&quot;1011&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Schema&lt;/font&gt;&lt;/td&gt;&lt;td data-end=&quot;1085&quot; data-start=&quot;1032&quot; data-col-size=&quot;md&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Dynamic (you can change the structure on the fly)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr data-end=&quot;1125&quot; data-start=&quot;1086&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;1107&quot; data-start=&quot;1086&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Relationships&lt;/font&gt;&lt;/td&gt;&lt;td data-end=&quot;1125&quot; data-start=&quot;1107&quot; data-col-size=&quot;md&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Weak or manual&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr data-end=&quot;1193&quot; data-start=&quot;1126&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;1147&quot; data-start=&quot;1126&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Query language&lt;/font&gt;&lt;/td&gt;&lt;td data-end=&quot;1193&quot; data-start=&quot;1147&quot; data-col-size=&quot;md&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Varies (MongoDB uses its own query syntax)&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr data-end=&quot;1257&quot; data-start=&quot;1194&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;1215&quot; data-start=&quot;1194&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Examples&lt;/font&gt;&lt;/td&gt;&lt;td data-end=&quot;1257&quot; data-start=&quot;1215&quot; data-col-size=&quot;md&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;MongoDB, Firebase, Cassandra, DynamoDB&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr data-end=&quot;1354&quot; data-start=&quot;1258&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;1279&quot; data-start=&quot;1258&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Best for&lt;/font&gt;&lt;/td&gt;&lt;td data-end=&quot;1354&quot; data-start=&quot;1279&quot; data-col-size=&quot;md&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Unstructured or semi-structured data, high scalability, fast dev cycles&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;hr&gt;&lt;/div&gt;&lt;/div&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="550" width="760" height="850" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;A Javascript based Backend&lt;/h1&gt;&lt;div&gt;&lt;b&gt;javascript base backend needs to be 2 packages&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;b&gt;1 Express.js =&amp;gt;&lt;/b&gt; this is mostly use for routing who make the server&lt;br&gt;&lt;b&gt;2&lt;/b&gt; &lt;b&gt;Mongoose&lt;/b&gt; =&amp;gt; this is mostly use for database to check the queries&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;there are 3 types of data that i have handle in backend&amp;nbsp;&lt;br&gt;&lt;b&gt;Data(string, digits) , file, third party (api)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Javascript Runtime Envirnoment =&amp;gt; Node.js, Bun, Deno&lt;br&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Folder and File Structure&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Package.json, .env, Readme, git, lint, prettier&amp;nbsp; etc&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="1440" width="760" height="1530" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="29" target="30">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="29" target="30">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="29" target="30">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="" style="edgeStyle=none;html=1;exitX=0.175;exitY=1.012;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="29" target="38">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="60" y="1820"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="41" value="" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="29" target="40">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="30" y="1730" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="30" y="1715"/>
+                            <mxPoint x="30" y="1890"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29" value="Src" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="1700" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="index.js(Entry Point file)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="1700" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="29" target="34">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="170" y="1775" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="75" y="1780"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="34" value="App.js/main.js (config files, cookies, urlencode)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="1760" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="constants(enums, DB-name)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="1810" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="40" target="42">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="DB" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="1870" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="42" target="44">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="Models" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="1940" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="44" target="46">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="controllers" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="2020" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="46" target="48">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="Routes" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="2100" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="48" target="50">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="Middlewares" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="2170" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="Utils" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="2230" width="80" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
