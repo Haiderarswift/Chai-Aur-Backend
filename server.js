@@ -1,8 +1,14 @@
 import dotenv from 'dotenv';
-dotenv.config();
-
 import express from 'express';
+import cookieParser from "cookie-parser";
+import bodyParser from "body-parser";
+import cors from 'cors';
 const app = express();
+app.use(bodyParser.json());
+app.use(express.json());
+app.use(cors());
+app.use(cookieParser());
+dotenv.config();
 
 app.get('/', (req, res) => {
   res.send('Hello World!');
