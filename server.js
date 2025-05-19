@@ -16,12 +16,12 @@ app.use(cors());
 
 app.use(cookieParser());
 
-// mongoose
-//   .connect(process.env.DATABASE_URL)
-//   .then(() => console.log("Connected to MongoDB"))
-//   .catch((err) => {
-//     console.error("MongoDB Error:", err.message);
-//     process.exit(1); 
-//   });
+mongoose
+  .connect(process.env.DATABASE_URL)
+  .then(() => console.log("Connected to MongoDB"))
+  .catch((err) => {
+    console.error("MongoDB Error:", err.message);
+    process.exit(1); 
+  });
 
 app.listen(PORT, () => console.log(`server running on port ${PORT}`));
